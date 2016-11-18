@@ -1,5 +1,4 @@
-# Facebook-Messenger-for-WordPress
-Facebook Messenger for WordPress (Lite version)
+# Facebook Messenger for WordPress (Lite version)
 
 <img src="http://demo.ninjateam.org/data/messenger/intro-03.png" alt="Facebook Messenger for WordPress">
 
