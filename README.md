@@ -25,12 +25,6 @@ Cheers!
 
 <img src="http://demo.ninjateam.org/data/messenger/review-01.png" alt="Customers Review">
 
-<br>
-
-<img src="http://demo.ninjateam.org/data/messenger/guaranteed-03.png" alt="30 days money back">
-
-<strong><a href="http://codecanyon.net/item/facebook-messenger-for-wordpress/16392065&license=regular&open_purchase_for_item_id=13623421&purchasable=source&ref=NinjaTeam"><img src="http://demo.ninjateam.org/data/messenger/buy-now-05.png" alt="Buy it Now"></a></strong>
-
 <h3 id="item-description__changelog">CHANGELOG</h3>
 <strong>23/08/2016: (version 2.1)</strong>
 <pre>- Update: Upload icon/image popup
