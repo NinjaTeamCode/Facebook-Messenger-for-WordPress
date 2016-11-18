@@ -26,7 +26,7 @@ Cheers!
 
 <img src="http://demo.ninjateam.org/data/messenger/review-01.png" alt="Customers Review">
 
-<h2>DOWNLOAD<H2>
+<h2>DOWNLOAD</h2>
 <strong>You can download at: https://wordpress.org/plugins/wp-facebook-messenger/</strong>
 
 <h3 id="item-description__changelog">CHANGELOG</h3>
