@@ -1,5 +1,7 @@
 # Facebook Messenger for WordPress (Lite version)
 
+Scroll down to see download link!
+
 <img src="http://demo.ninjateam.org/data/messenger/intro-03.png" alt="Facebook Messenger for WordPress">
 
 <a href="https://youtu.be/aRQNIANfxYY"><img src="http://demo.ninjateam.org/data/messenger/play-video-demo-03.png" alt="Play Video Demo on Youtube Now"></a>
@@ -23,6 +25,9 @@ Cheers!
 <br><br>
 
 <img src="http://demo.ninjateam.org/data/messenger/review-01.png" alt="Customers Review">
+
+<h2>DOWNLOAD<H2>
+<strong>You can download at: https://wordpress.org/plugins/wp-facebook-messenger/</strong>
 
 <h3 id="item-description__changelog">CHANGELOG</h3>
 <strong>23/08/2016: (version 2.1)</strong>
